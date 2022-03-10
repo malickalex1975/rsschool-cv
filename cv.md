@@ -53,3 +53,7 @@ return out
   * **Python generation: advanced course** [Certificate](https://stepic.org/cert/1362131)  
 
 ---
+## **Languages**  
+I have been actively studying English for more than three years and improved my level up to intermediate.  
+**EF SET check** indicates **68%**, it means that my level of English is somewhere between **B1** and **B2**  
+according to the **CEFR.** 
