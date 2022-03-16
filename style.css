@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(200, 220, 200);
+}
+
+.my-header{
+    text-align: center;
+}
+.my-footer{
+    text-align: center ;
+}
+.contacts{
+  background-color: rgb(200, 220, 255);
+  width: 50em; ;
+  border-left: 5px solid green;
+  font-size: 30px;
+  margin: 150px;
+
+}
+.contacts-content{
+    background-color: rgb(200, 200, 240);
+    width: 50em;
+    margin:150px;
+    border: 3px solid green;
+    
+}
+.list1{
+    font-size: 20px;
+    text-align: left;
+}
